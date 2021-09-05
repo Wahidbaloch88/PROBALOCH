@@ -38,6 +38,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Abdul Wahid
+
    ▄︻̷̿┻̿═━一
    THE ANONYMOUS WAHID TRICKER 
    THE LEGEND WAHID
