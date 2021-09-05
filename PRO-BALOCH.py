@@ -40,9 +40,9 @@ logo = """
    Abdul Wahid
 
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS WAHID TRICKER 
-   THE LEGEND WAHID
-   THE GAME CHANGER WAHID
+   THE ANONYMOUS wahid TRICKER 
+   THE LEGEND wahid
+   THE GAME CHANGER wahid
    pakistani hackers
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
